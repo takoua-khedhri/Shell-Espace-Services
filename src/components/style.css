@@ -1,0 +1,47 @@
+/* style.css */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .btn-warning {
+    background-color: #FFD700;
+    border-color: #FFD700;
+    color: #000;
+  }
+  
+  .btn-warning:hover {
+    background-color: #FFA500;
+    border-color: #FFA500;
+  }
+  
+  h1 {
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Animation pour le zoom du prix */
+@keyframes zoomInOut {
+  0% {
+    transform: scale(1); /* taille initiale */
+  }
+  50% {
+    transform: scale(1.2); /* zoom avant */
+  }
+  100% {
+    transform: scale(1); /* retour à la taille initiale */
+  }
+}
+
+/* Applique l'animation en boucle au prix */
+.price-zoom {
+  display: inline-block;
+  animation: zoomInOut 1s ease-in-out infinite; /* 1s = durée, infinite = boucle infinie */
+}
