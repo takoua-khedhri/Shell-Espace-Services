@@ -1,16 +1,16 @@
-hell-Espace-Services est un site vitrine moderne et responsive conçu pour présenter les services d’une entreprise de manière claire et professionnelle. Développé avec React, Bootstrap et JavaScript, ce site offre une expérience utilisateur fluide et une interface élégante, adaptée à tous les appareils (desktop, tablette et mobile).
+Shell-Espace-Services est un site vitrine moderne et responsive conçu pour présenter les services d’une entreprise de manière claire, professionnelle et attractive. Développé avec React, Bootstrap et JavaScript, il offre une interface élégante et une expérience utilisateur fluide, parfaitement adaptée aux écrans desktop, tablette et mobile.
 
-Fonctionnalités Principales
-✔ Page d’Accueil Attractive :
+🔹 Fonctionnalités principales :
+✔️ Page d’accueil dynamique
 
-Présentation synthétique de l’entreprise.
+Présentation concise de l’entreprise
 
-Mise en avant des services phares.
+Mise en valeur des services clés
 
-Call-to-action (CTA) pour inciter à la prise de contact.
+Boutons d’appel à l’action (CTA) pour encourager la prise de contact
 
-✔ Section Services Détailée :
+✔️ Section Services détaillée
 
-Affichage des différents services proposés.
+Affichage clair des services proposés
 
-Fiches descriptives avec icônes et visuels.
+Fiches descriptives accompagnées d’icônes et de visuels
